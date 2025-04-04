@@ -1,4 +1,4 @@
-# Invoice Sales SQL Analysis
+# Music Store Sales SQL Analysis
 
 ## Project Overview
 This project analyzes an invoice dataset using SQL to extract meaningful business insights. The goal is to identify the best customers, top-performing locations, popular music genres, and revenue trends. By leveraging SQL queries, we provide actionable recommendations to improve business performance.
